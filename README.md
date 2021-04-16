@@ -3,11 +3,21 @@
 
 - 🔭 I’m currently working on [Love, Bonito](http://lovebonito.com/)
 
+
+
+<hr/>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<hr/>
+
+https://github-readme-stats.vercel.app/api?username=pablofmorales&show_icons=true&hide_border=true
+
+<hr/>
+
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://dev.to/pablofmorales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pablofmorales" height="30" width="40" /></a>
 <a href="https://twitter.com/pablofmorales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pablofmorales" height="30" width="40" /></a>
