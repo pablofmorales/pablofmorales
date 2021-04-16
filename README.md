@@ -4,18 +4,13 @@
 - 🔭 I’m currently working on [Love, Bonito](http://lovebonito.com/)
 
 
-
-<hr/>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<hr/>
 
-https://github-readme-stats.vercel.app/api?username=pablofmorales&show_icons=true&hide_border=true
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablofmorales&show_icons=true&hide_border=true" />
 
-<hr/>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
