@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Pablo Morales</h1>
+<h3 align="center">I've been working in the Tech industry since 2003, in companies located in six different countries, Argentina, Netherlands, Hong Kong, UAE, and Singapore. Moving between countries makes it easier to learn and adapt to different cultures, and ways to work.</h3>
 
-<!--
-**pablofmorales/pablofmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Love, Bonito](http://lovebonito.com/)
 
-Here are some ideas to get you started:
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/pablofmorales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pablofmorales" height="30" width="40" /></a>
+<a href="https://twitter.com/pablofmorales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pablofmorales" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pablofmorales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pablofmorales" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/pablofmorales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="pablofmorales" height="30" width="40" /></a>
+<a href="https://instagram.com/pablofmorales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pablofmorales" height="30" width="40" /></a>
+<a href="https://medium.com/@pablofmorales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pablofmorales" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pablofmorales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pablofmorales" height="30" width="40" /></a>
+<a href="https://discord.gg/pablofmorales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="pablofmorales" height="30" width="40" /></a>
+</p>
