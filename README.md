@@ -8,7 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/pablofmorales?style=flat&color=6366f1&labelColor=0f0f1a)](https://github.com/pablofmorales)
 [![Twitter](https://img.shields.io/badge/Twitter-@pablofmorales-6366f1?style=flat&logo=twitter&logoColor=white&labelColor=0f0f1a)](https://twitter.com/pablofmorales)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pablofmorales-6366f1?style=flat&logo=linkedin&logoColor=white&labelColor=0f0f1a)](https://linkedin.com/in/pablofmorales)
-[![Email](https://img.shields.io/badge/Email-pablo@blackasteroid.com.ar-6366f1?style=flat&logo=gmail&logoColor=white&labelColor=0f0f1a)](mailto:pablo@blackasteroid.com.ar)
+[![Website](https://img.shields.io/badge/outfitalliance.com-6366f1?style=flat&logo=globe&logoColor=white&labelColor=0f0f1a)](https://outfitalliance.com)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 I build automation tools, SaaS products, and homelab infrastructure. Lead Developer at **BlackAsteroid** — focused on extreme productivity and shipping fast.
 
-- 🏗️ Currently building: **ARCA** (billing automation), **habitu.ar** (RPG habit tracker), **Mission Control**
+- 🏗️ Currently building: **[Outfit Alliance](https://outfitalliance.com)** (fashion-tech platform), **habitu.ar** (RPG habit tracker), **ARCA** (billing automation)
 - 🔧 Stack: TypeScript · Next.js · React · PostgreSQL · Docker · Node.js
 - 🏠 Self-hosted everything on my homelab (`aang`)
 - 📍 Buenos Aires, Argentina
@@ -32,9 +32,9 @@ I build automation tools, SaaS products, and homelab infrastructure. Lead Develo
 
 | Project | Description | Stack |
 |---------|------------|-------|
-| [**ARCA**](https://arca.blackasteroid.com.ar) | Automated billing & tax compliance for Argentine businesses. AFIP integration, multi-tenant, receipts. | TS · Next.js · PostgreSQL |
+| [**Outfit Alliance**](https://outfitalliance.com) | Fashion-tech platform. My company. | TS · Next.js · PostgreSQL |
 | [**habitu.ar**](https://habitu.ar) | Free RPG-gamified habit tracker. Create your character, build habits, earn XP & level up. | Next.js · BetterAuth · PostgreSQL |
-| [**Mission Control**](https://github.com/pablofmorales) | Internal team & project management dashboard. Tracks sprints, deployments & AI agent tasks. | React · Node.js · Docker |
+| [**ARCA**](https://arca.blackasteroid.com.ar) | Automated billing & tax compliance for Argentine businesses. AFIP integration, multi-tenant, receipts. | TS · Next.js · PostgreSQL |
 | [**X Media Saver**](https://github.com/pablofmorales/x-media-saver) | Chrome extension to save images, videos & GIFs from X (Twitter) in one click. MV3 compliant. | TS · Vite · CRXJS |
 
 ---
