@@ -1,7 +1,7 @@
 <div align="center">
 
 # Pablo Morales
-### Lead Developer · Indie Hacker · Automation Specialist
+### CTO & Co-founder at Cloutfit / Outfit Alliance
 
 *Buenos Aires, Argentina*
 
@@ -19,11 +19,10 @@
 > *Simplicity: if you can do it with a bash script, don't use Kubernetes.*
 > *Just Ship: done is better than perfect.*
 
-I build automation tools, SaaS products, and homelab infrastructure. Lead Developer at **BlackAsteroid** — focused on extreme productivity and shipping fast.
+I build AI orchestration tools, SaaS products, and fashion-tech infrastructure. CTO & Co-founder at **Cloutfit / Outfit Alliance** — focused on building the future of Fashion AI & Retail Tech.
 
-- 🏗️ Currently building: **[Outfit Alliance](https://outfitalliance.com)** (fashion-tech platform), **habitu.ar** (RPG habit tracker), **ARCA** (billing automation)
+- 🏗️ Currently building: **[Outfit Alliance](https://outfitalliance.com)** (fashion-tech platform) and **[habitu.ar](https://habitu.ar)** (RPG habit tracker)
 - 🔧 Stack: TypeScript · Next.js · React · PostgreSQL · Docker · Node.js
-- 🏠 Self-hosted everything on my homelab (`aang`)
 - 📍 Buenos Aires, Argentina
 
 ---
@@ -34,7 +33,6 @@ I build automation tools, SaaS products, and homelab infrastructure. Lead Develo
 |---------|------------|-------|
 | [**Outfit Alliance**](https://outfitalliance.com) | Fashion-tech platform. My company. | TS · Next.js · PostgreSQL |
 | [**habitu.ar**](https://habitu.ar) | Free RPG-gamified habit tracker. Create your character, build habits, earn XP & level up. | Next.js · BetterAuth · PostgreSQL |
-| [**ARCA**](https://arca.blackasteroid.com.ar) | Automated billing & tax compliance for Argentine businesses. AFIP integration, multi-tenant, receipts. | TS · Next.js · PostgreSQL |
 | [**X Media Saver**](https://github.com/pablofmorales/x-media-saver) | Chrome extension to save images, videos & GIFs from X (Twitter) in one click. MV3 compliant. | TS · Vite · CRXJS |
 
 ---
