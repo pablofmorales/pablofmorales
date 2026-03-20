@@ -35,6 +35,7 @@ I build AI orchestration tools, SaaS products, and fashion-tech infrastructure. 
 | [**habitu.ar**](https://habitu.ar) | Free RPG-gamified habit tracker. Create your character, build habits, earn XP & level up. | Next.js · BetterAuth · PostgreSQL |
 | [**kuma-cli**](https://github.com/BlackAsteroid/kuma-cli) | Agent-compatible CLI for Uptime Kuma. Bulk ops & Socket.io native. | TS · Commander · Socket.io |
 | [**X Media Saver**](https://github.com/pablofmorales/x-media-saver) | Chrome extension to save images, videos & GIFs from X (Twitter) in one click. MV3 compliant. | TS · Vite · CRXJS |
+| [**ICF**](https://github.com/BlackAsteroid/icf) | Incident Command Framework — manage service incidents through GitHub Issues from your terminal. No vendor lock-in. | TS · Commander · Octokit |
 
 ---
 
