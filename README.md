@@ -27,6 +27,12 @@ I build AI orchestration tools, SaaS products, and fashion-tech infrastructure. 
 
 ---
 
+### 📝 Technical Articles
+
+* [How I manage secrets across multiple agents and servers without .env files](https://x.com/pablofmorales/status/2038770215584940118)
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Stack |
