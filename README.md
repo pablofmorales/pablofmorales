@@ -1,7 +1,7 @@
 <div align="center">
 
 # Pablo Morales
-### CTO & Co-founder at Cloutfit / Outfit Alliance
+### CTO & Co-founder at Asteroid Ventures
 
 *Buenos Aires, Argentina*
 
