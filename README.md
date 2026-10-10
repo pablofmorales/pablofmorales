@@ -27,6 +27,14 @@ I build AI orchestration tools, SaaS products, and fashion-tech infrastructure. 
 
 ---
 
+### GitHub achievements
+
+[Pair Extraordinaire · Gold](https://github.com/pablofmorales?tab=achievements&achievement=pair-extraordinaire) · [Pull Shark · Gold](https://github.com/pablofmorales?tab=achievements&achievement=pull-shark) · [Quickdraw](https://github.com/pablofmorales?tab=achievements&achievement=quickdraw) · [YOLO](https://github.com/pablofmorales?tab=achievements&achievement=yolo) · [Arctic Code Vault Contributor](https://github.com/pablofmorales?tab=achievements&achievement=arctic-code-vault-contributor)
+
+[GitHub Developer Program Member](https://docs.github.com/en/integrations/concepts/github-developer-program). I build [ICF](https://github.com/pablofmorales/icf), an incident management CLI that uses GitHub Issues and the GitHub API.
+
+---
+
 ### 📝 Technical Articles
 
 * [How I manage secrets across multiple agents and servers without .env files](https://x.com/pablofmorales/status/2038770215584940118)
@@ -39,10 +47,10 @@ I build AI orchestration tools, SaaS products, and fashion-tech infrastructure. 
 |---------|------------|-------|
 | [**Outfit Alliance**](https://outfitalliance.com) | Fashion-tech platform. My company. | TS · Next.js · PostgreSQL |
 | [**habitu.ar**](https://habitu.ar) | Free RPG-gamified habit tracker. Create your character, build habits, earn XP & level up. | Next.js · BetterAuth · PostgreSQL |
-| [**kuma-cli**](https://github.com/BlackAsteroid/kuma-cli) | Agent-compatible CLI for Uptime Kuma. Bulk ops & Socket.io native. | TS · Commander · Socket.io |
+| [**kuma-cli**](https://github.com/pablofmorales/kuma-cli) | Agent-compatible CLI for Uptime Kuma. Bulk ops & Socket.io native. | TS · Commander · Socket.io |
 | [**X Media Saver**](https://github.com/pablofmorales/x-media-saver) | Chrome extension to save images, videos & GIFs from X (Twitter) in one click. MV3 compliant. | TS · Vite · CRXJS |
-| [**ICF**](https://github.com/BlackAsteroid/icf) | Incident Command Framework — manage service incidents through GitHub Issues from your terminal. No vendor lock-in. | TS · Commander · Octokit |
-| [Mac Cleaner CLI](https://github.com/BlackAsteroid/mac-cleaner-cli) | Open-source macOS CLI to clean dev caches (npm, Homebrew, Docker, Xcode, system). | TS · Commander |
+| [**ICF**](https://github.com/pablofmorales/icf) | Incident Command Framework — manage service incidents through GitHub Issues from your terminal. No vendor lock-in. | TS · Commander · Octokit |
+| [Mac Cleaner CLI](https://github.com/pablofmorales/mac-cleaner-cli) | Open-source macOS CLI to clean dev caches (npm, Homebrew, Docker, Xcode, system). | TS · Commander |
 
 ---
 
