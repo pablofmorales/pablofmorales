@@ -27,14 +27,6 @@ I build AI orchestration tools, SaaS products, and fashion-tech infrastructure. 
 
 ---
 
-### GitHub achievements
-
-[Pair Extraordinaire · Gold](https://github.com/pablofmorales?tab=achievements&achievement=pair-extraordinaire) · [Pull Shark · Gold](https://github.com/pablofmorales?tab=achievements&achievement=pull-shark) · [Quickdraw](https://github.com/pablofmorales?tab=achievements&achievement=quickdraw) · [YOLO](https://github.com/pablofmorales?tab=achievements&achievement=yolo) · [Arctic Code Vault Contributor](https://github.com/pablofmorales?tab=achievements&achievement=arctic-code-vault-contributor)
-
-[GitHub Developer Program Member](https://docs.github.com/en/integrations/concepts/github-developer-program). I build [ICF](https://github.com/pablofmorales/icf), an incident management CLI that uses GitHub Issues and the GitHub API.
-
----
-
 ### 📝 Technical Articles
 
 * [How I manage secrets across multiple agents and servers without .env files](https://x.com/pablofmorales/status/2038770215584940118)
